@@ -8,3 +8,8 @@ Connect it to the backend
 Hi
 
 I'm Trying to create a Begena playing webapp and i found the sounds that are shown in the Image ... I am trying to make an MVP so what should my enxt steps be?
+
+OK I've implemented the changes and, I have some thoughts. 
+1. The Begena has either 5 or 10 strings ... there are only 2 variations as far as i know ... so keep that in mind and we will impliment that on another version of this app. but for now we only have the option to play the 5 string version.
+2. On the provided screen shot of an app called begena(made by other poople to simulate begena playing) It has different keys for each scale and major(not exact terms btw but, I call the ones called "Selamta", "Wane" etc scales and, I call the "A1 Major", "C2 Minor" etc the Majors) For example Selamta[A#1 Major] has the keys [D#2, A#1, C2, G2, F2] while Selamta[C2 Major] has the keys [F2, C2, D2, A2, G2] so their should be a way to pick the Scale(e.g. Selamta, Bati Minor etc...) and also the Major(C2 Major, A1 Minor etc...)
+3. I can provide all the neccassary details to make this app accurate and functionable.
