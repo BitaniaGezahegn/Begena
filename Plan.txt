@@ -1,0 +1,10 @@
+Unpack the Mobile app called Begena.
+Find the appropriate sounds
+    Found Begena Sounds From A1 to Gsharp2
+plug them in here
+make the UI
+Connect it to the backend
+
+Hi
+
+I'm Trying to create a Begena playing webapp and i found the sounds that are shown in the Image ... I am trying to make an MVP so what should my enxt steps be?

@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #121212;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+.be-gena {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+  gap: 10px;
+  margin-top: 20px;
+}
+
+button {
+  background: #333;
+  color: #fff;
+  border: none;
+  padding: 15px;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background: #ff9800;
+}
